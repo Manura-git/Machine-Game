@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "63Zl9Nb1t+8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\timdo\\anaconda_projects\\csharp_lernen\\playground\\playground.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\timdo\\.nuget\\packages\\spectre.console\\0.57.2\\spectre.console.0.57.2.nupkg.sha512",
+    "C:\\Users\\timdo\\.nuget\\packages\\spectre.console.ansi\\0.57.2\\spectre.console.ansi.0.57.2.nupkg.sha512"
+  ],
+  "logs": []
+}
