@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\timdo\\anaconda_projects\\csharp_lernen\\playground\\playground.csproj": {}
+    "C:\\Users\\timdo\\anaconda_projects\\Maschinen_Konsolen_Spiel\\Maschinenhalle\\playground.csproj": {}
   },
   "projects": {
-    "C:\\Users\\timdo\\anaconda_projects\\csharp_lernen\\playground\\playground.csproj": {
+    "C:\\Users\\timdo\\anaconda_projects\\Maschinen_Konsolen_Spiel\\Maschinenhalle\\playground.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\timdo\\anaconda_projects\\csharp_lernen\\playground\\playground.csproj",
+        "projectUniqueName": "C:\\Users\\timdo\\anaconda_projects\\Maschinen_Konsolen_Spiel\\Maschinenhalle\\playground.csproj",
         "projectName": "playground",
-        "projectPath": "C:\\Users\\timdo\\anaconda_projects\\csharp_lernen\\playground\\playground.csproj",
+        "projectPath": "C:\\Users\\timdo\\anaconda_projects\\Maschinen_Konsolen_Spiel\\Maschinenhalle\\playground.csproj",
         "packagesPath": "C:\\Users\\timdo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\timdo\\anaconda_projects\\csharp_lernen\\playground\\obj\\",
+        "outputPath": "C:\\Users\\timdo\\anaconda_projects\\Maschinen_Konsolen_Spiel\\Maschinenhalle\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\timdo\\AppData\\Roaming\\NuGet\\NuGet.Config"
